@@ -1,0 +1,44 @@
+body{
+    background-color: darkgrey;
+}
+.color_display{
+    color: white;
+    background-color: rgb(163, 160, 160);
+    display: block;
+    margin: 5px;
+    height: 25px;
+    border-radius: 15px;
+}
+
+.numero{
+    background-color: rgb(117, 114, 114);
+    color: aliceblue;
+    border: 0;
+    width: 55px;
+    height: 35px;
+    border-radius: 15px;
+}
+.numero1{
+    background-color:orange;
+    color: aliceblue;
+    border: 0;
+    width: 55px;
+    height: 35px;
+    border-radius: 15px;
+}
+.numero2{
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    border: 0;
+    width: 55px;
+    height: 35px;
+    border-radius: 15px;
+}
+
+table{
+    background-color: black;
+    border-radius: 15px;
+}
+td{
+    border-radius: 15px;
+}
